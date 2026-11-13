@@ -2,7 +2,7 @@
 
 ### Senior Full Stack Engineer | React • Next.js • Node.js | Building Scalable Systems
 
-I'm a passionate full-stack engineer with 4+ years of experience building 
+I'm a passionate full-stack engineer with 4.5+ years of experience building 
 high-performance web applications. I love solving complex problems and 
 shipping features that users love.
 
@@ -38,8 +38,7 @@ shipping features that users love.
 
 ### Royal Matrimonial – Matrimonial Matchmaking Platform
 - **Tech Stack:** React.js, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, WebSockets
-- **Live Demo:** [Link to live app]
-- **GitHub:** [Link to repo]
+- **Live Demo:** https://royalmatrimonial.com/
 - **Key Achievements:**
   - Real-time messaging system handling 5-10K+ concurrent users
   - Razorpay payment gateway integration
@@ -48,8 +47,8 @@ shipping features that users love.
 
 ### Velvet Haven – Room Booking Web Application
 - **Tech Stack:** React.js, Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB
-- **Live Demo:** [Link to live app]
-- **GitHub:** [Link to repo]
+- **Live Demo:** https://velvet-haven.netlify.app/
+- **GitHub:** https://github.com/BaljeetGunghas/Velvet-Haven
 - **Key Features:**
   - Geolocation-based room search and filtering
   - Payment gateway integration
@@ -60,7 +59,7 @@ shipping features that users love.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaljeetGunghas&theme=dark&show_icons=true)
+<img src="https://ghstats.dev/api/card?username=baljeetgunghas&theme=light&hide_border=true" alt="GitHub Stats Card" />
 
 ---
 
