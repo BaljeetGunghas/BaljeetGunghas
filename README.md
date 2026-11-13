@@ -1,4 +1,4 @@
-# Hi 👋, I'm Baljeet Singh
+# Hi 👋, I'm Baljeet Gunghas
 
 ### Senior Full Stack Engineer | React • Next.js • Node.js | Building Scalable Systems
 
