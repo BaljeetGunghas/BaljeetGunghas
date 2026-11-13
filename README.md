@@ -78,8 +78,8 @@ shipping features that users love.
 ## 📫 Let's Connect
 
 - **Email:** baljeetgunghas5@gmail.com
-- **LinkedIn:** linkedin.com/in/baljeet-gunghas
-- **Portfolio:** baljeetgunghasportfolio.netlify.app
+- **LinkedIn:** https://www.linkedin.com/in/dev-baljeet-gunghas-b6698421b/
+- **Portfolio:** [baljeetgunghasportfolio.netlify.app](https://baljeetgunghasportfolio.netlify.app/)
 
 ---
 
